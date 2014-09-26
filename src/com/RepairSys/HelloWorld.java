@@ -9,7 +9,6 @@ public class HelloWorld extends CordovaActivity
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        //loadUrl("file:///android_asset/www/index.html");
-		loadUrl("file:///android_asset/www/test2/index.html");
+        loadUrl("file:///android_asset/www/index.html");
     }
 }

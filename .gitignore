@@ -1,2 +1,6 @@
-﻿/.svn/
-/out/*
+﻿#Ignore folders
+.svn/
+.idea/
+
+#Ignore files
+RepairSysApp.iml
